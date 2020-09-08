@@ -1,4 +1,4 @@
-# Elixir for programmers - course material
+# Elixir Hangman
 
 ## Notable modifications and experiments
 
@@ -27,4 +27,6 @@
 -   IDE support in VS Code is not optimal with the standard extension. For example, go to definition, intellisense and similar. Perhaps this could be fixed by spending some more time on setup.
 -   Pattern matching with multiple function definitions seems to be a powerful feature once you know it, but it takes some time to get used to. Replacing branching logic within functions with multiple function variations seems like a more declarative way of thinking about `input -> output`. Might be useful once I've given it some more time.
 
-Check out the course: https://codestool.coding-gnome.com/courses/elixir-for-programmers
+---
+
+This project is based on projects + assignments from the course [Elixir for programmers, by ](https://codestool.coding-gnome.com/courses/elixir-for-programmers). Check it out!
